@@ -1,2 +1,30 @@
 # code-quiz
 Building a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean, polished, and responsive user interface. 
+
+
+Acceptable Criteria DESCRIPTION:
+
++a timer starts and the user is presented with a question when they click the start button
+
++the user is presented with another question when they answer a question
+
++time is subtracted from the clock when the user answers a question incorrectly
+
++the game is over when all questions are answered or the timer reaches 0
+
++the user can save their initials and their score when the game is over
+
+
+NOTES/CHALLENGES:
+
++
+
+
+SCREENSHOT:
+
+![#-screenshot](./Assets/#.jpg)
+
+
+LINK:
+
++deployed application - 
