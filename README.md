@@ -17,7 +17,15 @@ Acceptable Criteria DESCRIPTION:
 
 NOTES/CHALLENGES:
 
-+
++(HTML/JS) - only one question should be displayed at a time
+
++(HTML/CSS) - each answer option needs to be a button
+
++(JS) - when an answer is clicked, "correct" or "incorrect" needs to be displayed then move to the next question
+
++need text box for users to enter their initials
+
++(JS) - "clear highscores" button needs to clear the page
 
 
 SCREENSHOT:
