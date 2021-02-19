@@ -17,7 +17,7 @@ Acceptable Criteria DESCRIPTION:
 
 NOTES/CHALLENGES:
 
-+(HTML/JS) - only one question should be displayed at a time
++(HTML/CSS/JS) - only one question should be displayed at a time, this was achieved by making each question its own div/id in HTML and then creating a "display: none" in CSS and "display: block" for each click event in JS
 
 +(HTML/CSS) - each answer option needs to be a button
 
