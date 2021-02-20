@@ -5,3 +5,14 @@
 /* #home-page{
     display: block;
 } */
+
+li{
+    background-color: cornflowerblue;
+    border-color: blue;
+    border-style: solid;
+    border-width: fit-content;
+    width: 50px;
+    padding: 10px;
+    margin: 00px;
+    text-align: center;
+}
