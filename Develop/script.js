@@ -1,12 +1,18 @@
 var startButton = document.getElementById("start")
+var liAnswer = document.querySelectorAll("li");
 
 startButton.addEventListener("click", function(){
     document.getElementById("home-page").style.display = "none";
     document.getElementById("q1").style.display = "block";
-    var liAnswer = document.querySelector("li");
-    console.log(liAnswer);
 });
 
 liAnswer.addEventListener("click", function(){
-    document
+    document.getElementById("q1").style.display = "none";
+    document.getElementById("q2").style.display = "block";
+    console.log(liAnswer);
+
 });
+
+//timer
+
+//score
