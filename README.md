@@ -2,7 +2,7 @@
 Building a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean, polished, and responsive user interface. 
 
 
-Acceptable Criteria DESCRIPTION:
+## Acceptable Criteria DESCRIPTION:
 
 +a timer starts and the user is presented with a question when they click the start button
 
@@ -15,7 +15,7 @@ Acceptable Criteria DESCRIPTION:
 +the user can save their initials and their score when the game is over
 
 
-NOTES/CHALLENGES:
+## NOTES/CHALLENGES:
 
 +(HTML/CSS/JS) - only one question should be displayed at a time, this was achieved by making each question its own div/id in HTML and then creating a "display: none" for each question in CSS and "display: block" for each click event in JS
 
@@ -32,11 +32,11 @@ NOTES/CHALLENGES:
 +(JS) - countdown timer needs to be rendered
 
 
-SCREENSHOT:
+### SCREENSHOT:
 
 ![#-screenshot](./Assets/#.jpg)
 
 
-LINK:
+### LINK:
 
-+deployed application - https://eloghub.github.io/code-quiz/
++ * [deployed application](https://eloghub.github.io/code-quiz/)
