@@ -17,15 +17,19 @@ Acceptable Criteria DESCRIPTION:
 
 NOTES/CHALLENGES:
 
-+(HTML/CSS/JS) - only one question should be displayed at a time, this was achieved by making each question its own div/id in HTML and then creating a "display: none" in CSS and "display: block" for each click event in JS
++(HTML/CSS/JS) - only one question should be displayed at a time, this was achieved by making each question its own div/id in HTML and then creating a "display: none" for each question in CSS and "display: block" for each click event in JS
 
 +(HTML/CSS) - each answer option needs to be a button
 
 +(JS) - when an answer is clicked, "correct" or "incorrect" needs to be displayed then move to the next question
 
-+need text box for users to enter their initials
++(JS) - need text box for users to enter their initials
 
 +(JS) - "clear highscores" button needs to clear the page
+
++(JS) - increasing/decreasing score needs to be rendered
+
++(JS) - countdown timer needs to be rendered
 
 
 SCREENSHOT:

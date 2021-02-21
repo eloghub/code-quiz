@@ -1,18 +1,19 @@
-#q1, #q2, #q3 {
+/* #q1, #q2, #q3, #q4, #q5, #end-page, #highscores {
     display: none;
-}
+} */
 
 /* #home-page{
     display: block;
 } */
 
 li{
-    background-color: cornflowerblue;
-    border-color: blue;
+    background-color: purple;
+    color: white;
     border-style: solid;
     border-width: fit-content;
-    width: 50px;
     padding: 10px;
     margin: 00px;
     text-align: center;
+    /* justify-content: center; */
+    /* align-items: center; */
 }

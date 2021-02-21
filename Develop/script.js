@@ -7,6 +7,10 @@ var questionTwo = document.getElementById("q2");
 var questionThree = document.getElementById("q3");
 var questionFour = document.getElementById("q4");
 var questionFive = document.getElementById("q5");
+//class="correct"
+var correct = document.querySelectorAll("correct");
+//class="incorrect"
+var incorrect = document.querySelectorAll("incorrect");
 
 //when the start button is clicked, the home page disappears
 //and the first question is displayed
