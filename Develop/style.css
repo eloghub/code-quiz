@@ -6,6 +6,20 @@
     display: block;
 } */
 
+.heading{
+    direction: inherit;
+    font-weight: lighter;
+    padding-bottom: 40px;
+}
+
+#score {
+    float: left;
+}
+
+#time {
+    float: right;
+}
+
 li{
     background-color: purple;
     color: white;
