@@ -35,4 +35,4 @@ SCREENSHOT:
 
 LINK:
 
-+deployed application - 
++deployed application - https://eloghub.github.io/code-quiz/
