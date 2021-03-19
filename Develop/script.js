@@ -15,6 +15,50 @@ var incorrect = document.querySelectorAll("#incorrect");
 var score = document.getElementById("score");
 var time = document.getElementById("time");
 var counter = 0
+// array of variables for each of the 5 questions
+const questions = [
+    {
+        question: "Commonly used data types DO NOT include",
+        answers: [
+            "strings", "booleans", "alerts", "numbers"      
+        ],
+        correctAnswer: "alerts"
+    },
+    
+    {
+        question: "The condition in an if/else statement is enclosed within _____",
+        answers: [
+            "quotes", "curly brackets", "parentheses", "square brackets"      
+        ],
+        correctAnswer: "parentheses"
+    },
+    
+    {
+        question: "Arrays in Javascript can be used to store ______",
+        answers: [
+            "numbers and strings", "other arrays", "booleans", "all of the above"      
+        ],
+        correctAnswer: "all of the above"
+    },
+    
+    {
+        question: "String values must be enclosed within ______ when being assigned to variables.",
+        answers: [
+            "commas", "curly brackets", "quotes", "parentheses"      
+        ],
+        correctAnswer: "quotes"
+    },
+    
+    {
+        question: "A very useful tool used during development and debugging for printing content to the debugger is",
+        answers: [
+            "JavaScript", "terminal / gitbash", "for loops", "console.log"      
+        ],
+        correctAnswer: "console.log"
+    },
+    
+];
+
 console.log(liAnswer);
 
 function nextQuestion (){
